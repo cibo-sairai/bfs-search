@@ -100,7 +100,7 @@ public class Main {
         graph.add(new Node(key, points));
         adj2.add(new Node(key, points));
 
-        //queue.add(keys.length);
+        
     }
 }
 
